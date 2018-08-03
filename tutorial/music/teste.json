@@ -1,0 +1,52 @@
+{
+  "albums": [
+    {
+      "album_name": "XPTO",
+      "year": 2010,
+      "tracks": [
+        {
+          "order": 1,
+          "title": "Public Service Announcement",
+          "duration": 245
+        },
+        {
+          "order": 2,
+          "title": "What More Can I Say",
+          "duration": 264
+        },
+        {
+          "order": 3,
+          "title": "Encore",
+          "duration": 159
+        }
+      ]
+    },
+    {
+      "album_name": "XYZ",
+      "year": 2010,
+      "tracks": [
+        {
+          "order": 1,
+          "title": "sadsadsda",
+          "duration": 234
+        },
+        {
+          "order": 2,
+          "title": "sdasdas",
+          "duration": 555
+        },
+        {
+          "order": 3,
+          "title": "sdasda",
+          "duration": 666
+        }
+      ]
+    }
+  ],
+  "birthday": "2018-8-9",
+  "email": "homem@mulher.com",
+  "marital_status": "married",
+  "name": "Julio",
+  "gender": "male",
+  "fullname": "Fonseca"
+}
